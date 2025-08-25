@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","14669","登录失败: username=user1 psd=user123","tests","Mon Aug 25 20:12:40 CST 2025","passed","Mon Aug 25 20:12:54 CST 2025","TestLogin","test_aa_login","",""
+"","1179","校验首页页面内容","tests","Mon Aug 25 20:12:58 CST 2025","passed","Mon Aug 25 20:13:00 CST 2025","TestHomepage","test_homepage","",""
+"","3028","登录成功: username=admin psd=123456","tests","Mon Aug 25 20:12:55 CST 2025","passed","Mon Aug 25 20:12:58 CST 2025","TestLogin","test_aa_login","",""
+"","1157","登录失败: username=admin psd=1234567","tests","Mon Aug 25 20:12:54 CST 2025","passed","Mon Aug 25 20:12:55 CST 2025","TestLogin","test_aa_login","",""
+"","1934","退出登录","tests","Mon Aug 25 20:13:00 CST 2025","passed","Mon Aug 25 20:13:02 CST 2025","TestQuit","test_zz_quit","",""
